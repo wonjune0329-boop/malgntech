@@ -194,7 +194,7 @@ src
 * Baeldung (Spring Security / JWT 관련 자료)
 
 ---
-
+본 프로젝트는 제공된 요구사항을 기반으로 Spring Boot 프로젝트를 새로 생성하여 구현했습니다.
 # 작성자
 
 윤원준
